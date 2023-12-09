@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaghaavAgarwal
 - 👀 I’m interested in Artificial Intellegence
-- 🌱 I’m currently learning NLP and working on Neural Network
+- 🌱 I’m working on NLP and Neural Network
 - 📫 mail : raghavagarwal529@gmail.com
 
 <!---
